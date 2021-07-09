@@ -1,18 +1,6 @@
 # Dot-Connect Game
 
-A turn based two player game built on MERN stack technologies.
-
-Available to play [here.](https://dot-connect.sakib.dev/)
-
-Read the development story [here.](https://medium.com/@sjsakib/how-i-built-my-first-react-app-dot-connect-364f39ca0db7)
-
-## Run this on your own machine
-
-You will need to have node, npm and yarn installed.
-
-```
-# First clone this repository with git
-git clone https://github.com/sjsakib/dot-connect.git
+## Run this on your own machinet clone https://github.com/sjsakib/dot-connect.git
 
 # Then move inside the project, install the client side dependencies and run the front-end
 cd dot-connect
