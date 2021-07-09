@@ -1,17 +1,22 @@
 # Dot-Connect Game
 
-## Run this on your own machinet clone https://github.com/sjsakib/dot-connect.git
+## Run this on your own machine
+
+You will need to have node, npm and yarn installed.
+
+```
+# First clone this repository with git
 
 # Then move inside the project, install the client side dependencies and run the front-end
 cd dot-connect
-yarn install
-yarn start
+npm install
+npm start
 
 # Now open a new shell window and move to the server folder
 # and install the server side dependencies and run the server
 cd server
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 An internet connection is required for the app to work. Because it uses a sandbox database instance from [mlab](https://mlab.com/) instead of local installation of Mongo. 
